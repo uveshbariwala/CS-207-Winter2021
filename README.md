@@ -28,6 +28,19 @@ This project is based on the Arduino UNO kit, microcontroller board based on the
 
 
 ### Getting started
+Once you have got your Arduino UNO kit and the required materials, you are ready to build this creative project. Below is the checklist that contains all the necessary components for the project.
+
+1.Arduino UNO
+2.Jumper wires
+3.Two LED's (Green, Red)
+4.Piezo buzzer
+5.Flame sensor module
+6.Wifi module
+7.Water pump
+8.Resistor(2.2 K-Ohm)
+9.Transistor
+10.Diode
+
 
 
 #### Prerequisites
