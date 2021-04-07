@@ -41,7 +41,8 @@ Once you have got your Arduino UNO kit and the required materials, We are ready 
 - Diode
 
 #### Installation
-
+Download the Arduino IDE for your PC, Integrated Development Environment contains a text editor for writing code, a toolbar with buttons for various function and series of menus. The code written in the IDE is then uploaded to function the arduino. The sketches are saved with the file extension .ino. There are two buttons, verify(check your code for error while compiling) and Upoad(Uploads code to the configured board).
+Get Arduino IDE for the windows/Mac [here](https://www.arduino.cc/en/software)
 
 ### Usage
 
