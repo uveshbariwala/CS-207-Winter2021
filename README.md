@@ -7,7 +7,6 @@
 + [Project Description](#project-description)
   + [Built with](#built-with)
 + [Getting started](#getting-started)
-  + [Prerequisites](#prerequisites)
   + [Installation](#installation)
 + [Usage](#usage)
 + [Roadmap](#roadmap)
@@ -18,7 +17,7 @@
 This paper demostrate small fire extinguishing system using an arduino UNO. Firefighter system that sense fire automatically and immediately starts water pump and take control over the fire. Alarm activates immediately while flame sensor catches the flame and sends alert on the device it is linked to.
 
 #### Built With
-This project is based on the Arduino UNO kit, microcontroller board based on the datasheet (ATmega328p). Board contains 14 digital input/output pins. They are all divided as 6 PWM outputs and 6 analog inputs, it connects to your pc via USB cable or any other power source of 5v. This kit contains small electronic devices that are implemented in this project, excluding wifi module, flame sensor module and mini submersible water pump.
+This project is based on the Arduino UNO kit, an open source programmable microcontroller board based on the datasheet (ATmega328p). Board contains 14 digital input/output pins. They are all divided as 6 PWM outputs and 6 analog inputs, it connects to your pc via USB cable or any other power source of 5v. Arduino is programmed with c/c++.This kit contains small electronic devices that are implemented in this project, excluding wifi module, flame sensor module and mini submersible water pump.
 
 [Get your Arduino UNO kit here](https://solarbotics.com/product/ardx/)
    
@@ -28,7 +27,7 @@ This project is based on the Arduino UNO kit, microcontroller board based on the
 
 
 ### Getting started
-Once you have got your Arduino UNO kit and the required materials, you are ready to build this creative project. Below is the checklist that contains all the necessary components for the project.
+Once you have got your Arduino UNO kit and the required materials, We are ready to build this creative project. Below is the checklist that contains all the necessary components for the project.
 
 - Arduino UNO
 - Jumper wires
@@ -40,11 +39,6 @@ Once you have got your Arduino UNO kit and the required materials, you are ready
 - Resistor(2.2 K-Ohm)
 - Transistor
 - Diode
-
-
-
-#### Prerequisites
-
 
 #### Installation
 
