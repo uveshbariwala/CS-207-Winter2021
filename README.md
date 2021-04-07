@@ -5,8 +5,9 @@
 <summary>Table of contents</summary>
 
 + [Project Description](#project-description)
-  + [Built with](#built-with)
-+ [Getting started](#getting-started)
+  + [Built With](#built-with)
++ [Getting Started](#getting-started)
+  + [Circuit](#circuit)
   + [Installation](#installation)
 + [Usage](#usage)
 + [Roadmap](#roadmap)
@@ -39,9 +40,9 @@ Once you have got your Arduino UNO kit and the required materials, We are ready 
 - Resistor(2.2 K-Ohm)
 - Transistor
 - Diode
-
+#### Circuit 
 #### Installation
-Download the Arduino IDE for your PC, Integrated Development Environment contains a text editor for writing code, a toolbar with buttons for various function and series of menus. The code written in the IDE is then uploaded to function the arduino. The sketches are saved with the file extension .ino. There are two buttons, verify(check your code for error while compiling) and Upoad(Uploads code to the configured board).
+Download the Arduino IDE for your PC, Integrated Development Environment contains a text editor for writing code, a toolbar with buttons for various function and series of menus. The code written in the IDE is then uploaded to function the arduino. There are two buttons, verify(check your code for error while compiling) and Upoad(Uploads code to the configured board). The sketches are saved with the file extension (.ino) in the designated folder.
 Get Arduino IDE for the windows/Mac [here](https://www.arduino.cc/en/software)
 
 ### Usage
