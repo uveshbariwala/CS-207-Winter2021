@@ -46,6 +46,6 @@ Download the Arduino IDE for your PC, Integrated Development Environment contain
 Get Arduino IDE for the windows/Mac [here](https://www.arduino.cc/en/software)
 
 ### Usage
-You can find the code [here]()
+You can find the code [here](https://github.com/uveshbariwala/CS-207-Winter2021-Final-Project/blob/main/code)
 
 ### Roadmap
