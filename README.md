@@ -42,7 +42,7 @@ Once you have got your Arduino UNO kit and the required materials, We are ready 
 - Diode
 #### Circuit 
 
-![sketch](https://user-images.githubusercontent.com/78987305/114621178-9f1e6300-9c69-11eb-8afe-21db1c025bc3.png)
+![sketch](https://user-images.githubusercontent.com/78987305/114621437-ee649380-9c69-11eb-93c7-f704ef96d7b5.png)
 
 #### Installation
 Download the Arduino IDE for your PC, Integrated Development Environment contains a text editor for writing code, a toolbar with buttons for various function and series of menus. The code written in the IDE is then uploaded to function the arduino. There are two buttons, verify(check your code for error while compiling) and Upoad(Uploads code to the configured board). The sketches are saved with the file extension (.ino) in the designated folder.
